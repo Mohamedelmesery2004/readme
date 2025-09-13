@@ -1,7 +1,6 @@
 # 🌟NutriMind AI: Your Ultimate Personalized Routine Architect
 
-![NutriMind AI Banner](WhatsApp Image 2025-09-13 at 20.11.57_e12a1c95.jpg)
-
+![Image](https://github.com/user-attachments/assets/530a7dcd-e01d-49ff-910b-ddcea430502f)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
