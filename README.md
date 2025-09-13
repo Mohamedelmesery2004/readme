@@ -1,6 +1,11 @@
 # 🌟NutriMind AI: Your Ultimate Personalized Routine Architect
 
-![Image](https://github.com/user-attachments/assets/530a7dcd-e01d-49ff-910b-ddcea430502f)
+NutriMind AI is not just an app—it's a revolutionary ecosystem that crafts personalized daily routines (nutrition, sleep, exercise, mindfulness) using cutting-edge Machine Learning deployed on Google Cloud, a robust Node.js backend, a seamless Flutter mobile app, and an award-worthy UI/UX design. Born from the innovative IEEE Victoris 4.0 challenge, NutriMind empowers millions to live smarter with AI-driven insights.
+
+*Vision:* To redefine productivity and well-being with a global, scalable solution that adapts to you.
+
+![NutriMind AI Banner](https://github.com/user-attachments/assets/530a7dcd-e01d-49ff-910b-ddcea430502f)
+
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -10,9 +15,6 @@
 ![Figma](https://img.shields.io/badge/Design-Figma-red?style=for-the-badge&logo=figma&logoColor=white)
 
 
-NutriMind AI is not just an app—it's a revolutionary ecosystem that crafts personalized daily routines (nutrition, sleep, exercise, mindfulness) using cutting-edge Machine Learning deployed on Google Cloud, a robust Node.js backend, a seamless Flutter mobile app, and an award-worthy UI/UX design. Born from the innovative IEEE Victoris 4.0 challenge, NutriMind empowers millions to live smarter with AI-driven insights.
-
-*Vision:* To redefine productivity and well-being with a global, scalable solution that adapts to you.
 
 ---
 
@@ -57,8 +59,7 @@ NutriMind leverages a cutting-edge tech ecosystem:
 ## 🏗 System Architecture
 
 
-![System Architecture](https://drive.google.com/uc?export=view&id=1sVsSuRs_JsQVNdawYoasqH2uAtag6WgEu)
-
+![System Architecture](https://github.com/user-attachments/assets/229f002a-5d9e-405b-a3f1-010745b06885)
 ---
 
 ---
