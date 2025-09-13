@@ -157,7 +157,8 @@ curl -X POST https://api.nutrimind.ai/routines/generate \
 
 
 ### Routine Dashboard
-![Dashboard](https://www.notion.so/IEEE-Competition-25842616b32780c8887bdf66c2312328)
+[Dashboard (Notion Link)](https://www.notion.so/IEEE-Competition-25842616b32780c8887bdf66c2312328)
+
 
 ### Design System
 [Figma Design File](https://www.figma.com/design/kPoJr1Wk07ZCVCpYPbYFtn/NutriMind?node-id=0-1&p=f&t=KdJOqXrNztDiwGE9-0)
