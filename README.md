@@ -178,7 +178,7 @@ curl -X POST https://api.nutrimind.ai/routines/generate \
 [Figma Design File](https://www.figma.com/design/kPoJr1Wk07ZCVCpYPbYFtn/NutriMind?node-id=0-1&p=f&t=KdJOqXrNztDiwGE9-0)
 
 ### Demo Video
-[Watch Demo](https://example.com/nutrimind-demo) *Replace with actual demo link*
+[Watch Demo](https://drive.google.com/file/d/14Z2JcbXAJmLoI__lxf8WB0t54xOPCnId/view?usp=drive_link) 
 
 ---
 
