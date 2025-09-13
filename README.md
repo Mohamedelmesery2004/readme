@@ -1,6 +1,6 @@
 # 🌟NutriMind AI: Your Ultimate Personalized Routine Architect
 
-![NutriMind AI Banner](https://ibb.co/6cQCyc6J)
+![NutriMind AI Banner]([https://ibb.co/6cQCyc6J](https://github.com/Mohamedelmesery2004/readme/blob/b4b6509d6e3c867a9252a3f50075adde912a49e6/WhatsApp%20Image%202025-09-13%20at%2020.11.57_e12a1c95.jpg))
 
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
